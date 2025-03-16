@@ -1,3 +1,10 @@
+# Shell
+1. Switch on pretty printing of your sql query outputs:
+```
+.mode box
+.headers on
+```
+
 # Foreign keys
 ## Self-referencing foreign keys
 - SQLite allows self-referencing foreign keys.
